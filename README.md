@@ -10,4 +10,7 @@
 6. Ejecutar proyecto `npm run start:dev`
 
 
-
+## Documentacion
+- PRISMA: 
+- PdfMake: http://pdfmake.org/#/
+- fonts.google: https://fonts.google.com/?query=roboto 
